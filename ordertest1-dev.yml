@@ -9,4 +9,4 @@ spring:
     show-sql: true
 girl: 
   name: lili
-  age: 28
+  age: 30
