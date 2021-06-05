@@ -1,0 +1,12 @@
+env: dev002
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://172.20.10.7:3306/springcloud_sell?&useSSL=false&serverTimezone=UTC
+  jpa:
+    show-sql: true
+girl: 
+  name: lili
+  age: 19
